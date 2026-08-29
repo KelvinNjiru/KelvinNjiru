@@ -1,4 +1,4 @@
-# Kelvin Nyaga Njiru
+# Kelvin  Njiru
 
 **Network Automation Engineer | NetDevOps Specialist**  
 Focusing on programmable network infrastructure, automated validation pipelines, and cloud telemetry.
