@@ -3,7 +3,7 @@
 **Network Automation Engineer | NetDevOps Specialist**  
 Focusing on programmable network infrastructure, automated validation pipelines, and cloud telemetry.
 
-[LinkedIn](www.linkedin.com/in/kelvin-njiru) • [Live Portfolio](https://kelvinjiru.netlify.app/) • [Email](mailto:Nyagakevin822@gmail.com)
+[LinkedIn](in/kelvin-njiru) • [Live Portfolio](https://kelvinjiru.netlify.app/) • [Email](mailto:Nyagakevin822@gmail.com)
 
 ---
 
