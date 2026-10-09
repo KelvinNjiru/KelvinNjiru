@@ -16,7 +16,7 @@ Focusing on programmable network infrastructure, automated validation pipelines,
 
 ---
 
-### 📌 Featured Repositories
+### Featured Repositories
 
 * **[PacosNetInsight](https://github.com/KLIIRTY/PacosNetInsight):** Telemetry log anomaly detection engine containerized with Docker.
 * **[NetDevOps CI/CD Testbed](#):** Automated Jinja2 configuration templating and Scrapli orchestration over Containerlab.
